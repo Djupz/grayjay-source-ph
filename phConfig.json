@@ -22,7 +22,7 @@
 		"www.pornhub.com",
 		"pornhub.com"
 	]
-}
+
 {
   "action": "click",
   "element": {
@@ -30,4 +30,5 @@
     "type": "css"
   },
   "description": "Click the 'I am 18 years or older - Enter' button"
+}
 }
