@@ -1,5 +1,5 @@
-const PLATFORM = "DeviantArt";
-const URL_HOME = "https://www.deviantart.com/";
+const PLATFORM = "PHub";
+const URL_HOME = "https://www.pornhub.com/";
 
 var config = {};
 
