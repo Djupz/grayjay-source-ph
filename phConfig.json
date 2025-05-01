@@ -15,12 +15,19 @@
 	
 	"scriptSignature": "",
 	"scriptPublicKey": "",
-	"packages": ["Http","Https"],
+	"packages": ["Http"],
 	
 	"allowEval": false,
 	"allowUrls": [
 		"www.pornhub.com",
 		"pornhub.com"
 	]
-
+{
+  "action": "click",
+  "element": {
+    "selector": "button:contains('I am 18 years or older - Enter')",
+    "type": "css"
+  },
+  "description": "Click the 'I am 18 years or older - Enter' button"
+}
 }
