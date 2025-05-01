@@ -2,11 +2,11 @@
 	"name": "PHUB",
 	"description": "PHub plugin",
 	"author": "CQIT",
-	"authorUrl": "https://github.com/CodeQualIT",
+	"authorUrl": "https://github.com/Djupz",
 
 	"platformUrl": "https://www.pornhub.com/",
-	"sourceUrl": "https://github.com/CodeQualIT/grayjay-source-ph/raw/master/phConfig.json",
-	"repositoryUrl": "https://github.com/CodeQualIT/grayjay-source-ph",
+	"sourceUrl": "https://github.com/Djupz/grayjay-source-ph/raw/master/phConfig.json",
+	"repositoryUrl": "https://github.com/Djupz/grayjay-source-ph",
 	"scriptUrl": "./phScript.js",
 	"version": 1,
 	
