@@ -1,0 +1,24 @@
+{
+	"name": "PHUB",
+	"description": "PHub plugin",
+	"author": "CQIT",
+	"authorUrl": "https://github.com/CodeQualIT",
+
+	"platformUrl": "https://www.pornhub.com/",
+	"sourceUrl": "https://github.com/CodeQualIT/grayjay-source-ph/raw/master/phConfig.json",
+	"repositoryUrl": "https://github.com/CodeQualIT/grayjay-source-ph",
+	"scriptUrl": "./phScript.js",
+	"version": 1,
+	
+	"iconUrl": "./phLogo.png",
+	"id": "a82a6e4d-4e91-466e-8c46-d7895654e2d1",
+	
+	"scriptSignature": "",
+	"scriptPublicKey": "",
+	"packages": ["Http", "DOMParser", "Utilities"],
+	
+	"allowEval": false,
+	"allowUrls": [
+		"www.pornhub.com"
+	]
+}
